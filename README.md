@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @yoda_master Quant Finance Programmer 
+Quant Finance Trading 
